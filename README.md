@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sam!
 
-🎓 I'm a 16-year-old self-taught developer passionate about coding, problem solving, and building cool things with technology.
+🎓 I'm a 17-year-old self-taught developer passionate about coding, problem solving, and building cool things with technology.
 
 ### 🚀 What I know
 - 💻 **Languages & Tools**: Python, C#, HTML, CSS, JavaScript, PHP
