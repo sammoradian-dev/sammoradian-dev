@@ -4,11 +4,11 @@
 
 ### 🚀 What I know
 - 💻 **Languages & Tools**: Python, C#, HTML, CSS, JavaScript, PHP
-- 🧠 Currently diving into **Machine Learning** and **Data Science**
+- 🧠 Currently diving into **Deep Learning** and **Data Science**
 - 🛠️ Working on exercise projects to sharpen my skills and learn by doing
 
 ### 📈 What I'm working on
-- Building small projects to apply what I learn in ML and data analysis
+- Building small projects to apply what I learn in ML, DL and data analysis
 - Exploring data visualization and model training
 - Getting more experience with Git, GitHub, and open-source collaboration
 
