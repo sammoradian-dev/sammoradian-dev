@@ -18,7 +18,8 @@
 - Contribute to open-source when I feel ready!
 
 ### 📫 How to reach me
-You can find me right here on GitHub! Feel free to explore my repositories and connect if you have tips, ideas, or just want to chat about code.
+You can find me right here on GitHub or just email me! Feel free to explore my repositories and connect if you have tips, ideas, or just want to chat about code.
+my email : sammoradian@outlook.com
 
 ---
 
